@@ -1,0 +1,6 @@
+venv
+.idea
+__pycache__
+bookData.bak
+bookData.dat
+bookData.dir
